@@ -19,6 +19,7 @@ A real-world solution for our actual book club
 A collaborative experiment with friends acting as my user base, testers, and critics
 
 🌟 Features (Planned / In Progress)
+
 ✅ MVP (Minimum Viable Product)
  Display current book of the month
 
@@ -31,6 +32,7 @@ A collaborative experiment with friends acting as my user base, testers, and cri
  Notes/review section per book
 
 🧪 Future Features
+
  Login/account-based bookmarking
 
  Poll for book voting
