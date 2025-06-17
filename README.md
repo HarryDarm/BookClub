@@ -59,4 +59,4 @@ Tutorial: Traversy Media’s Professional Website From Scratch – using this as
 💬 Community & Feedback
 Since my friends are the primary users, they’ll be suggesting improvements, reporting bugs, and helping identify redundant features as we go. I’ll document changes in the changelog and log major milestones in the Projects section of my LinkedIn.
 
-Feel free to open an issue or send me a message if you want to suggest a feature, tutorials foe me to look into or give advice—especially if you’re a web dev and have thoughts on better ways to structure things!
+Feel free to open an issue or send me a message if you want to suggest a feature, tutorials for me to look into or give advice—especially if you’re a web dev and have thoughts on better ways to structure things!
